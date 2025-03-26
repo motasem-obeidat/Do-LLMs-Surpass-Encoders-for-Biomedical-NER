@@ -6,7 +6,7 @@ In this repository, we provide scripts for training and evaluating both **encode
 The evaluation is conducted using the International Workshop on Semantic Evaluation (SemEval) framework. For more details on named entity evaluation, you can refer to this [blog post by David Batista](https://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/).
 
 ---
- 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [File Structure](#file-structure)
