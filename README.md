@@ -84,7 +84,7 @@ The models can be trained on various datasets, such as:
 │   ├── inference.py                # Core inference script
 │   ├── main.py                     # Main script for decoder training/evaluation
 │
-├── encoder_requirements.txt       # Required dependencies for encoder model
+├── encoder_requirements.txt        # Required dependencies for encoder model
 ├── decoders_requirements.txt       # Required dependencies for decoder model
 └── README.md                       # Documentation
 ```
