@@ -1,0 +1,10 @@
+pandas
+torch==2.2.2
+numpy
+transformers==4.48.3
+tqdm
+scikit-learn
+sentencepiece
+protobuf
+matplotlib
+sklearn-crfsuite
