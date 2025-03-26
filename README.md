@@ -30,7 +30,7 @@ The models can be trained on various datasets, such as:
 - BC5CDR
 - Reddit_Impacts
 
-**Note:** 
+**Notes:** 
 - The ChemProt dataset is sourced from [End-to-End Models for Chemical–Protein Interaction Extraction](https://github.com/bionlproc/end-to-end-ChemProt).
 - The Reddit-Impacts dataset has not been publicly released. To access it, please contact the authors of the paper: [Reddit-Impacts: A Named Entity Recognition Dataset for Analyzing Clinical and Social Effects of Substance Use Derived from Social Media](https://arxiv.org/pdf/2405.06145).
 ---
