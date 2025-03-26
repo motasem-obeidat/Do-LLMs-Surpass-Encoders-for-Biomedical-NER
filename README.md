@@ -53,6 +53,16 @@ The models can be trained on various datasets, such as:
 │   │   ├── train.txt
 │   │   ├── val.txt
 │   │   ├── test.txt
+│   │
+│   ├── ChemProt/
+│   │   ├── train.txt
+│   │   ├── val.txt
+│   │   ├── test.txt
+│   │
+│   ├── Reddit_Impacts/
+│       ├── train.txt
+│       ├── val.txt
+│       ├── test.txt
 │
 ├── encoders/
 │   ├── data_preprocessing.py       # Prepares datasets for encoder model
